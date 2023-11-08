@@ -1,3 +1,3 @@
 # first-demo
 this is my first repository
-by naresh
+by naresh grover
